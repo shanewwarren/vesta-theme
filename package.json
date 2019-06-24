@@ -2,6 +2,10 @@
     "name": "vesta-theme",
     "displayName": "Vesta Theme",
     "publisher": "shanewwarren",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shanewwarren/vesta-theme"
+    },
     "description": "Simple and playful light theme.",
     "version": "0.0.1",
     "engines": {
