@@ -1,0 +1,22 @@
+{
+    "name": "vesta-theme",
+    "displayName": "Vesta Theme",
+    "publisher": "shanewwarren",
+    "description": "Simple and playful light theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vesta",
+                "uiTheme": "vs",
+                "path": "./themes/Vesta-color-theme.json"
+            }
+        ]
+    }
+}
